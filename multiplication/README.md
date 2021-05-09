@@ -32,3 +32,19 @@ other info
 https://opensource.zalando.com/restful-api-guidelines/
 
 https://swagger.io/resources/articles/adopting-an-api-first-approach/
+
+* Front end:
+
+using Recat and node
+
+to create the frontend app
+
+npx create-react-app challenges-frontend
+
+to start it up
+
+npm start
+
+package app
+
+npm run build
